@@ -3,4 +3,4 @@
 
 ### live preview 
 
-https://grocery-bud-reactjs.netlify.app
+https://grocery-reactjs.netlify.app
